@@ -4,20 +4,418 @@ title: Calendar
 uid: a28d0243-c71b-00fe-4076-5d51257a0ab7
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Examples of Dynamical Systems {{< br >}}{{< br >}} Orbits {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 1 is handed out {{< br >}}{{< br >}} Lab 1 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Mathematica® Lab {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Graphical Analysis of Orbits {{< br >}}{{< br >}} Fixed and Periodic Points   {{< br >}}{{< br >}} {{< br >}} |  {{< br >}}{{< br >}} Homework 1 due {{< br >}}{{< br >}} Homework 2 is handed out {{< br >}}{{< br >}} Lab 1 due {{< br >}}{{< br >}} Lab 2 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Mathematica® Lab {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Bifurcations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 2 due {{< br >}}{{< br >}} Homework 3 is handed out {{< br >}}{{< br >}} Lab 2 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Writing Feedback {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} The Quadratic Family {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 3 due {{< br >}}{{< br >}} Homework 4 is handed out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Writing Feedback {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Transition to Chaos {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 4 due {{< br >}}{{< br >}} Homework 5 is handed out {{< br >}}{{< br >}} Lab 3 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Symbolic Dynamics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 5 due {{< br >}}{{< br >}} Homework 6 is handed out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Chaos {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 6 due {{< br >}}{{< br >}} Lab 3 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Sarkovskii's Theorem {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 7 is handed out {{< br >}}{{< br >}} Writing Project: Sarvoskii's Theorem {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Sarkovskii's Theorem (cont.) {{< br >}}{{< br >}} The Role of the Critical Orbit {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 7 due {{< br >}}{{< br >}} Homework 8 is handed out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture  {{< br >}}_  {{< br >}}Newton's Method {{< br >}}{{< br >}} Fractals {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Homework 8 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Fractals (cont.) {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Examples of Dynamical Systems
+
+Orbits
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 is handed out
+
+Lab 1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mathematica® Lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Graphical Analysis of Orbits
+
+Fixed and Periodic Points  
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due
+
+Homework 2 is handed out
+
+Lab 1 due
+
+Lab 2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mathematica® Lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Bifurcations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 due
+
+Homework 3 is handed out
+
+Lab 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing Feedback
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+The Quadratic Family
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 3 due
+
+Homework 4 is handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing Feedback
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Transition to Chaos
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 4 due
+
+Homework 5 is handed out
+
+Lab 3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Symbolic Dynamics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 5 due
+
+Homework 6 is handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Chaos
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 6 due
+
+Lab 3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Sarkovskii's Theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 7 is handed out
+
+Writing Project: Sarvoskii's Theorem
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Sarkovskii's Theorem (cont.)
+
+The Role of the Critical Orbit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 7 due
+
+Homework 8 is handed out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture  
+_  
+Newton's Method
+
+Fractals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 8 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Fractals (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

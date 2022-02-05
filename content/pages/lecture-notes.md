@@ -8,20 +8,393 @@ Lectures are prepared and given by students. See Preparing Lectures ([PDF]({{< b
 
 The following table contains lecture notes created by the students for their own lectures.
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Examples of Dynamical Systems {{< br >}}{{< br >}} Orbits {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lecture01)) (Courtesy of Jeremy Hurwitz. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Mathematica® Lab {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Graphical Analysis of Orbits {{< br >}}{{< br >}} Fixed and Periodic Points {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lecture02)) (Courtesy of Glenn Austin Ford. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Mathematica® Lab {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Bifurcations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/bifurcations)) (Courtesy of Alan Dunn. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Writing Feedback {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} The Quadratic Family {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lecture04)) (Courtesy of Wesley Mckinney. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Writing Feedback {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Transition to Chaos {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lecture05)) (Courtesy of Yevgeny K. Zaytman. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Symbolic Dynamics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lecture06)) (Courtesy of Alenjandro Ochoa. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Chaos {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Sarkovskii's Theorem {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lecture08)) (Courtesy of Jeremy Hurwitz. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Sarkovskii's Theorem (cont.) {{< br >}}{{< br >}} The Role of the Critical Orbit {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lecture09)) (Courtesy of Wesley Mckinney. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture  {{< br >}}_  {{< br >}}Newton's Method {{< br >}}{{< br >}} Fractals {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF 1]({{< baseurl >}}/resources/lecture10part1)) (Courtesy of Yevgeny K. Zaytman. Used with permission.) {{< br >}}{{< br >}} ([PDF 2]({{< baseurl >}}/resources/lecture10part2)) (Courtesy of Alejandro Ochoa. Used with permission.) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Student Lecture_ {{< br >}}{{< br >}} Fractals (cont.) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ( [PDF]({{< baseurl >}}/resources/lecture11part1)) (Courtesy of Alan Dunn. Used with permission.) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Examples of Dynamical Systems
+
+Orbits
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lecture01)) (Courtesy of Jeremy Hurwitz. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mathematica® Lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Graphical Analysis of Orbits
+
+Fixed and Periodic Points
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lecture02)) (Courtesy of Glenn Austin Ford. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mathematica® Lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Bifurcations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/bifurcations)) (Courtesy of Alan Dunn. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing Feedback
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+The Quadratic Family
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lecture04)) (Courtesy of Wesley Mckinney. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing Feedback
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Transition to Chaos
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lecture05)) (Courtesy of Yevgeny K. Zaytman. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Symbolic Dynamics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lecture06)) (Courtesy of Alenjandro Ochoa. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Chaos
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Sarkovskii's Theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lecture08)) (Courtesy of Jeremy Hurwitz. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Sarkovskii's Theorem (cont.)
+
+The Role of the Critical Orbit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lecture09)) (Courtesy of Wesley Mckinney. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture  
+_  
+Newton's Method
+
+Fractals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF 1]({{< baseurl >}}/resources/lecture10part1)) (Courtesy of Yevgeny K. Zaytman. Used with permission.)
+
+([PDF 2]({{< baseurl >}}/resources/lecture10part2)) (Courtesy of Alejandro Ochoa. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Student Lecture_
+
+Fractals (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+( [PDF]({{< baseurl >}}/resources/lecture11part1)) (Courtesy of Alan Dunn. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

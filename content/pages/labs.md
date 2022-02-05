@@ -10,8 +10,65 @@ Students are strongly encouraged to work together on these experiments. In each 
 
 The student work in this section appears courtesy of the individuals named and is used with permission
 
-| LABS | STUDENT WORKS |
-| --- | --- |
-| Lab 1 ([PDF]({{< baseurl >}}/resources/lab1)) |  {{< br >}}{{< br >}} Example 1 ([PDF]({{< baseurl >}}/resources/lab1rw)) (Alejandro Ochoa) {{< br >}}{{< br >}} Example 2 ([PDF]({{< baseurl >}}/resources/lab1_hurwitz)) (Jeremy Hurwitz) {{< br >}}{{< br >}} Example 3 ([PDF]({{< baseurl >}}/resources/lab1r)) (Wes McKinney) {{< br >}}{{< br >}}  |
-| Lab 2 ([PDF]({{< baseurl >}}/resources/lab2)) |  {{< br >}}{{< br >}} Example 1 ([PDF]({{< baseurl >}}/resources/lab2rw)) (Alejandro Ochoa) {{< br >}}{{< br >}} Example 2 ([PDF]({{< baseurl >}}/resources/lab2_hurwitz)) (Jeremy Hurwitz) {{< br >}}{{< br >}}  |
-| Lab 3 ([PDF]({{< baseurl >}}/resources/lab3)) |  {{< br >}}{{< br >}} Example 1 ([PDF]({{< baseurl >}}/resources/lab3rw)) (Alejandro Ochoa) {{< br >}}{{< br >}} Example 2 ([PDF]({{< baseurl >}}/resources/lab3_wes)) (Wes McKinney) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT WORKS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1 ([PDF]({{< baseurl >}}/resources/lab1))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Example 1 ([PDF]({{< baseurl >}}/resources/lab1rw)) (Alejandro Ochoa)
+
+Example 2 ([PDF]({{< baseurl >}}/resources/lab1_hurwitz)) (Jeremy Hurwitz)
+
+Example 3 ([PDF]({{< baseurl >}}/resources/lab1r)) (Wes McKinney)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2 ([PDF]({{< baseurl >}}/resources/lab2))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Example 1 ([PDF]({{< baseurl >}}/resources/lab2rw)) (Alejandro Ochoa)
+
+Example 2 ([PDF]({{< baseurl >}}/resources/lab2_hurwitz)) (Jeremy Hurwitz)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3 ([PDF]({{< baseurl >}}/resources/lab3))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Example 1 ([PDF]({{< baseurl >}}/resources/lab3rw)) (Alejandro Ochoa)
+
+Example 2 ([PDF]({{< baseurl >}}/resources/lab3_wes)) (Wes McKinney)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
