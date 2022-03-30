@@ -12,7 +12,7 @@ A Guide to Writing Mathematics ([PDF](http://www.cs.ucdavis.edu/~amenta/w10/writ
 
 Mathematical Writing Checklist ([PDF]( https://www.fandm.edu/uploads/files/107682389602454187-guide-to-writing.pdf))
 
-Common Errors in the Writing of Mathematics ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)([PDF](http://www.swarthmore.edu/NatSci/smaurer1/WriteGuide/write_errors.pdf))
+Common Errors in the Writing of Mathematics ([PDF](http://www.swarthmore.edu/NatSci/smaurer1/WriteGuide/write_errors.pdf))
 
 For general information about reading mathematics, please consult the article "[How to Read Mathematics](http://www.stonehill.edu/compsci/History_Math/math-read.htm)" by Shai Simonson and Fernando Gouveau.
 
